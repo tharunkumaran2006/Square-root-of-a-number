@@ -30,7 +30,7 @@ RegisterNumber:212223230231
 ```
 
 ## Output:
-![Screenshot 2024-03-23 091324](https://github.com/tharunkumaran2006/Square-root-of-a-number/assets/151625188/c8a31619-15bf-4092-957b-f613b8806990)
+![Screenshot 2024-03-25 170859](https://github.com/tharunkumaran2006/Square-root-of-a-number/assets/151625188/9b894406-c088-44f5-8883-dbf61bac4d8b)
 
 
 
