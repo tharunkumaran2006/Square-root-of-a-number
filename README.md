@@ -26,7 +26,6 @@ a=int(input())
 print("Square root of the number:",newton(a))
 Developed by:THARUN V K 
 RegisterNumber:212223230231  
-*/
 ```
 
 ## Output:
