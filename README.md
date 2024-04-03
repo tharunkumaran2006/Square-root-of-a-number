@@ -29,7 +29,7 @@ RegisterNumber:212223230231
 ```
 
 ## Output:
-![Screenshot 2024-03-25 170859](https://github.com/tharunkumaran2006/Square-root-of-a-number/assets/151625188/9b894406-c088-44f5-8883-dbf61bac4d8b)
+![alt text](<Screenshot 2024-04-03 101322.png>)
 
 
 
